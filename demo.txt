@@ -1,0 +1,18 @@
+My First GIT File
+
+Hi RK,
+
+MOM:
+
+Finalised the testcase template
+Walkthrough of insight is completed. 
+Walththrough of FL4 screen
+
+Next Steps:
+
+1. Converting the Testcases for the remining Insight -- AI Arvind
+2. UCT Scenorios to review with team tomorrow --  AI Ravi
+3. Continue writing the testcases on FL4 -- AI Mamatha
+
+Regards,
+Ravi
